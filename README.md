@@ -1,1 +1,1 @@
-with prof. yang
+somatosensory cortex modeling collaborate with prof. yang
