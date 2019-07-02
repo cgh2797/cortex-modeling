@@ -1,2 +1,3 @@
-# cortex-modeling
 cortex modeling
+
+with prof. yang
