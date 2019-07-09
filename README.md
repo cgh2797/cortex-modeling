@@ -4,10 +4,15 @@ cortex modeling
 
 ## read rhd file
 % Example:
+
 % clear
+
 read_Intan_RHD2000_file
+
 %  whos
+
 amplifier_channels(1)
+
 plot(t_amplifier, amplifier_data(16,:))
 
 
