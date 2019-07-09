@@ -1,4 +1,6 @@
-### electrophysiology data analysis 
+electrophysiology data analysis 
+
+cortex modeling
 
 
 ## reference
