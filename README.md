@@ -13,6 +13,9 @@ read_Intan_RHD2000_file
 plot(t_amplifier, amplifier_data(16,:))
 ```
 
+## modeling
+- hmm...
+
 
 ## reference
 
