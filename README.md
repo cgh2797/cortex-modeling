@@ -15,7 +15,7 @@ plot(t_amplifier, amplifier_data(16,:))
 
 ## example plot
 
-<img src="https://github.com/cgh2797/cortex_modeling/blob/master/data.png" width="50%">
+<img src="https://github.com/cgh2797/cortex_modeling/blob/master/data.png" width="65%">
 
 ## TO DO
 - more data
