@@ -3,7 +3,7 @@ electrophysiology data analysis
 cortex modeling
 
 ## read rhd file
-% Example:
+'% Example:
 
 % clear
 
@@ -13,7 +13,7 @@ read_Intan_RHD2000_file
 
 amplifier_channels(1)
 
-plot(t_amplifier, amplifier_data(16,:))
+plot(t_amplifier, amplifier_data(16,:))'
 
 
 
