@@ -17,6 +17,10 @@ plot(t_amplifier, amplifier_data(16,:))
 
 ![plot](https://github.com/cgh2797/cortex_modeling/blob/master/data.png)
 
+## TO DO
+- more data
+- noise reduce
+
 
 ## modeling
 - hmm...
