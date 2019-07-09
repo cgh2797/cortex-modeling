@@ -20,7 +20,7 @@ plot(t_amplifier, amplifier_data(16,:))
 ## TO DO
 - more data
 - noise reduce
-
+- more meeting
 
 ## modeling
 - hmm...
