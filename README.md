@@ -1,5 +1,5 @@
 reference
 
-Neural mechanisms of transient neocortical beta rhythms: Converging evidence from humans, computational modeling, monkeys, and mice. Maxwell A. Sherman el at 2016 PNAS [link](https://www.pnas.org/content/113/33/E4885)
+Neural mechanisms of transient neocortical beta rhythms: Converging evidence from humans, computational modeling, monkeys, and mice. Maxwell A. Sherman el at 2016 PNAS ([link])(https://www.pnas.org/content/113/33/E4885)
  
-Large-scale model of mammalian thalamocortical systems. Izhikevich and Edelman 2008 PNAS  [link](https://www.pnas.org/content/105/9/3593)
+Large-scale model of mammalian thalamocortical systems. Izhikevich and Edelman 2008 PNAS  ([link])(https://www.pnas.org/content/105/9/3593)
