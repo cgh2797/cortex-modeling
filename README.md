@@ -23,8 +23,9 @@ plot(t_amplifier, amplifier_data(16,:))
 - more meeting
 
 ## special feature
-surface respose is weak so buried in noise.
-deep layer response is strong so it is clear
+surface respose is weak so buried in noise. Low SNR
+
+deep layer response is strong so it is clear. High SNR
 
 ## modeling
 - hmm...
