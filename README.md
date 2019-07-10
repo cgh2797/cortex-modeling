@@ -1,6 +1,6 @@
 electrophysiology data analysis
 
-cortex modeling
+somatosensory cortex
 
 ## read rhd file
 
