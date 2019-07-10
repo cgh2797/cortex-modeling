@@ -21,6 +21,7 @@ plot(t_amplifier, amplifier_data(16,:))
 - more data
 - noise reduce
 - more meeting
+- we need time information, spatial information of data.
 
 ## special feature
 surface respose is weak so buried in noise. Low SNR
