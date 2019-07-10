@@ -38,5 +38,5 @@ plot(t_amplifier, amplifier_data(16,:))
 
 - Processing in layer 4 of the neocortical circuit: new insights from visual and somatosensory cortex [link](https://www.sciencedirect.com/science/article/abs/pii/S0959438800002397?via%3Dihub)
 
-Computational modeling of direct neuronal recruitment during intracortical microstimulation in somatosensory cortex [link](https://iopscience.iop.org/article/10.1088/1741-2560/10/6/066016)
+- Computational modeling of direct neuronal recruitment during intracortical microstimulation in somatosensory cortex [link](https://iopscience.iop.org/article/10.1088/1741-2560/10/6/066016)
 
