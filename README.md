@@ -22,6 +22,10 @@ plot(t_amplifier, amplifier_data(16,:))
 - noise reduce
 - more meeting
 
+## special feature
+surface respose is weak so buried in noise.
+deep layer response is strong so it is clear
+
 ## modeling
 - hmm...
 
