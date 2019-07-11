@@ -23,7 +23,7 @@ plot(t_amplifier, amplifier_data(16,:))
 - more meeting
 - we need time information, spatial information of data.
 
-## special feature
+## note that
 surface respose is weak so buried in noise. Low SNR
 
 deep layer response is strong so it is clear. High SNR
