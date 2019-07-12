@@ -19,7 +19,6 @@ plot(t_amplifier, amplifier_data(16,:))
 
 ## TO DO
 - more data
-- noise reduce
 - more meeting
 - we need time information, spatial information of data.
 
