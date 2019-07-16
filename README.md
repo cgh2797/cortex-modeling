@@ -18,10 +18,8 @@ plot(t_amplifier, amplifier_data(16,:))
 <img src="https://github.com/cgh2797/cortex_modeling/blob/master/data.png" width="65%">
 
 ## TO DO
-- more data
-- more meeting
-- we need time information, spatial information of data.
-
+- layer별로 histogram의 평균, 분산을 구한다
+- network modeling하려면 cross correlogram이 필요하다
 ## note that
 surface respose is weak so buried in noise. Low SNR
 
