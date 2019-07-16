@@ -25,6 +25,8 @@ surface respose is weak so buried in noise. Low SNR
 
 deep layer response is strong so it is clear. High SNR
 
+- time resolution : 50*10^(-6)
+
 ## modeling
 - hmm...
 
