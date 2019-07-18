@@ -20,6 +20,7 @@ plot(t_amplifier, amplifier_data(16,:))
 ## TO DO
 - layer별로 histogram의 평균, 분산을 구한다
 - network modeling하려면 cross correlogram이 필요하다
+- study analyze neural time series data
 ## note that
 surface respose is weak so buried in noise. Low SNR
 
