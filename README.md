@@ -31,6 +31,13 @@ deep layer response is strong so it is clear. High SNR
 ## modeling
 - hmm...
 
+## recording channel
+- Layer 4에서는 181119부터 데이터를 씀, response완료까지 쓴다  
+181119,181126은 ch7  
+190115는 ch31  
+190128,190129 ch 15
+
+
 
 ## reference
 
