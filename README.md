@@ -27,9 +27,9 @@ interneuron은 제거한다
 이미 있는 모델을 가지고 사용한다.
 
 ## note that
-surface respose is weak so buried in noise. Low SNR
+surface,layer1 respose is weak so buried in noise. Low SNR
 
-deep layer response is strong so it is clear. High SNR
+layer4 response is strong so it is clear. High SNR
 
 ## resolution
 - spatial resolution : at least 1/3*1/3mm^2
