@@ -18,9 +18,14 @@ plot(t_amplifier, amplifier_data(16,:))
 <img src="https://github.com/cgh2797/cortex_modeling/blob/master/data.png" width="65%">
 
 ## TO DO
-- layer별로 histogram의 평균, 분산을 구한다
-- network modeling하려면 cross correlogram이 필요하다
 - study analyze neural time series data
+
+## requirements
+input만 넣는다  
+interneuron은 제거한다  
+어떻게 얼마나 diffuse되는지를 하고싶다  
+이미 있는 모델을 가지고 사용한다.
+
 ## note that
 surface respose is weak so buried in noise. Low SNR
 
