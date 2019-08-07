@@ -72,3 +72,4 @@ layer4 response is strong so it is clear. High SNR
 
 - Processing in layer 4 of the neocortical circuit: new insights from visual and somatosensory cortex [[link](https://www.sciencedirect.com/science/article/abs/pii/S0959438800002397?via%3Dihub)]
 
+- Maturation of intrinsic and synaptic properties of layer 2/3 pyramidal neurons in mouse auditory cortex. [[link](https://www.ncbi.nlm.nih.gov/pubmed/18417631)]
