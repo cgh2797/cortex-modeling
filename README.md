@@ -32,6 +32,8 @@ interneuron은 제거한다
 어떻게 얼마나 diffuse되는지를 하고싶다  
 이미 있는 모델을 가지고 사용한다.
 
+- 논문에 있는 그림만 가지고 neural-net 원하시는데 사실상 불가능
+
 ## note that
 surface,layer1 respose is weak so buried in noise. Low SNR
 
