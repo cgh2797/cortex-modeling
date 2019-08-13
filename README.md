@@ -57,6 +57,16 @@ layer4 response is strong so it is clear. High SNR
 - x-axis : sec
 - y-axis : microV
 
+## 연구
+1. 어떻게 노드를 정의?
+integrate and fire model
+
+2. layer4 -> layer1을 구현
+(신호전달과정)
+
+3. layer1의 latteral connection구현
+
+
 
 ## reference
 
