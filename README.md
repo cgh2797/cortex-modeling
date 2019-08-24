@@ -22,9 +22,7 @@ plot(t_amplifier, amplifier_data(8,:))
 - study analyze neural time series data
 기존에 받은데이터는 시간,공간정보 부재로인해 이용가능성이 제한
 
-- stimulation을 통해 반응이 enhance된 데이터를 받아서 network analysis
-
-- 기존의 neuron model을 이용한다.
+- izhikevich model
 
 ## requirements
 input만 넣는다  
