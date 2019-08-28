@@ -24,6 +24,8 @@ plot(t_amplifier, amplifier_data(8,:))
 
 - izhikevich model
 
+- neuronal dynamics 짱짱맨
+
 ## requirements
 input만 넣는다  
 interneuron은 제거한다  
