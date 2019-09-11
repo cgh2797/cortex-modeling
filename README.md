@@ -23,6 +23,7 @@ plot(t_amplifier, amplifier_data(8,:))
 기존에 받은데이터는 시간,공간정보 부재로인해 이용가능성이 제한
 
 - izhikevich model
+- IF model
 
 - neuronal dynamics 짱짱맨
 
