@@ -19,13 +19,9 @@ plot(t_amplifier, amplifier_data(8,:))
 <img src="https://github.com/cgh2797/cortex_modeling/blob/master/data.png" width="65%">
 
 ## TO DO
-- study analyze neural time series data
-기존에 받은데이터는 시간,공간정보 부재로인해 이용가능성이 제한
-
-- izhikevich model
+- study analyze neural time series data(데이터의 상태가...)
 - IF model
-
-- neuronal dynamics 짱짱맨
+- neuronal dynamics 
 
 ## requirements
 input만 넣는다  
